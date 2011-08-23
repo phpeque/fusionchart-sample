@@ -1,0 +1,7 @@
+*.htm -crlf
+*.html -crlf
+*.sql -crlf
+*.xml -crlf
+*.js -crlf
+*.php -crlf
+*.txt -crlf

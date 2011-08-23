@@ -1,0 +1,18 @@
+Global setup:
+
+ Set up git
+  git config --global user.name "Taufek Johar"
+  git config --global user.email phpeque@gmail.com
+        
+
+Next steps:
+
+  mkdir fusionchart-sample
+  cd fusionchart-sample
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:phpeque/fusionchart-sample.git OR https://phpeque@github.com/phpeque/fusionchart-sample.git
+  git push -u origin master
+      
